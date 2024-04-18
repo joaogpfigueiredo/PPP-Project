@@ -1,0 +1,42 @@
+Name: Jose
+Number: 912456834
+Type: 1
+Hour: 12:30
+Date: 10-01-2024
+
+Name: Laura
+Number: 915432187
+Type: 1
+Hour: 09:30
+Date: 17-11-2022
+
+Name: Tiago
+Number: 918765432
+Type: 2
+Hour: 14:15
+Date: 23-05-2023
+
+Name: Sofia
+Number: 911234567
+Type: 2
+Hour: 11:00
+Date: 12-09-2023
+
+Name: André
+Number: 919876543
+Type: 1
+Hour: 15:45
+Date: 10-01-2024
+
+Name: Beatriz
+Number: 912345678
+Type: 2
+Hour: 18:20
+Date: 30-03-2024
+
+Name: Diogo
+Number: 917654321
+Type: 1
+Hour: 12:50
+Date: 06-07-2025
+
